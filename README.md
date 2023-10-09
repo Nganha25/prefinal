@@ -25,8 +25,8 @@ By examining the chart, one can easily identify the words that are most commonly
 The chart represents the frequency of specific words in non-spam messages. It visualizes which words occur most frequently in the non-spam message dataset. The bars on the chart show the relative frequency of each word, with taller bars indicating higher occurrence. 
 By examining the chart, one can easily identify the words that are most commonly used in non-spam messages.</p>
 <h3>Logistic Regression </h3>
-<br><img src="import.jpg" alt="Error display image" width="1000" height="500" ></br>
-<br><img src="https://github.com/Nganha25/prefinal/blob/main/logistic.jpg" alt="Error display image" width="1000" height="400" ></br>
+<br><img src="import.jpg" alt="Error display image" width="1000" height="200" ></br>
+<br><img src="https://github.com/Nganha25/prefinal/blob/main/logistic.jpg" alt="Error display image" width="1000" height="200" ></br>
 <br><img src="https://github.com/Nganha25/prefinal/blob/main/num1.jpg" alt="Error display image" width="1000" height="300" ></br>
 <br><img src="https://github.com/Nganha25/prefinal/blob/main/num2.jpg" alt="Error display image" width="1000" height="300" ></br>
 
