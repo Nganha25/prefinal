@@ -25,10 +25,10 @@ By examining the chart, one can easily identify the words that are most commonly
 The chart represents the frequency of specific words in non-spam messages. It visualizes which words occur most frequently in the non-spam message dataset. The bars on the chart show the relative frequency of each word, with taller bars indicating higher occurrence. 
 By examining the chart, one can easily identify the words that are most commonly used in non-spam messages.</p>
 <h3>Logistic Regression </h3>
-<br><img src="import.jpg" alt="Error display image" width="700" height="500" ></br>
+<br><img src="import.jpg" alt="Error display image" width="1000" height="500" ></br>
 <br><img src="logistic.ipg" alt="Error display image" width="700" height="500" ></br>
 <br><img src="num1.ipg" alt="Error display image" width="700" height="500" ></br>
-<br><img src="num2.ipg" alt="Error display image" width="700" height="500" ></br>
+<br><img src="https://github.com/Nganha25/prefinal/blob/main/num2.jpg" alt="Error display image" width="700" height="500" ></br>
 
 <h2>3. Summarize the presentation</h2>
 <p>In conclusion, 3 different charts above have filtered out the above data, we know the current status of spam sending in the UK, and we use a Logistic Regression to be able to predict which emails sent in the future are good and which are spam.</p>
