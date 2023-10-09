@@ -17,8 +17,8 @@ I use a pie chart to describe my section . My chart shows that the label 'Ham' m
 <h3>Chart 2: </h3>
 <img src="Chart 2.jpg" alt="Error display image" width="700" height="500" >
 <p>Describe chart 2:
-The chart represents the frequency of specific words in non-spam messages. It visualizes which words occur most frequently in the non-spam message dataset. The bars on the chart show the relative frequency of each word, with taller bars indicating higher occurrence. 
-By examining the chart, one can easily identify the words that are most commonly used in non-spam messages..</p>
+My chart is about more frequency words in spam messages .  the column x shows words that appear in spam message , the column y shows the number of occurrences of the words column x represents 
+Through the chart, we can see that the word 'to' appears 600 times in spam emails, the most among the words listed. The second most frequent occurrence is the word ' a ' with 370 times . The remaining words are all within the range of 100-200 occurrences</p>
 <h3>Chart 3: </h3>
 <img src="Chart 3.jpg" alt="Error display image" width="700" height="500" >
 <p>Describe chart 3:
