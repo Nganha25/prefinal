@@ -11,7 +11,7 @@ Logistic regression is a supervised learning classification algorithm used to pr
 The primary goal is to Classify emails as spam or not and  predict that accurately classifies incoming email either ham or spam.<p>First, we updated file data to jupyter and type code to have 5 different charts.First chart about the dispersion in the correlation between weight and height of players.</p>
 <h2>2. Code and Chart</h2>
 <h3>Chart 1: </h3>
-<img src="Chart 3.png" alt="Error display image" width="500" height="300"  >
+<img src="Chart 3.png" alt="Error display image" width="500" height="400"  >
 <p>Describe chart 1:
 I use a pie chart to describe my section . My chart shows that the label 'Ham' makes up the majority (87%) of the dataset, while the label 'Spam' makes up only a small percentage (13%).</p>
 <h3>Chart 2: </h3>
