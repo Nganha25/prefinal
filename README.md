@@ -27,8 +27,8 @@ By examining the chart, one can easily identify the words that are most commonly
 <h3>Logistic Regression </h3>
 <img src="import.jpg" alt="Error display image" width="00" height="500" >
 <img src="logistic.ipg" alt="Error display image" width="700" height="500" >
-
-
+<img src="num1.ipg" alt="Error display image" width="700" height="500" >
+<img src="num2.ipg" alt="Error display image" width="700" height="500" >
 
 <h2>3. Summarize the presentation</h2>
 <p>In conclusion, 3 different charts above have filtered out the above data, we know the current status of spam sending in the UK, and we use a Logistic Regression to be able to predict which emails sent in the future are good and which are spam.</p>
