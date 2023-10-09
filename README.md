@@ -26,17 +26,8 @@ The chart represents the frequency of specific words in non-spam messages. It vi
 By examining the chart, one can easily identify the words that are most commonly used in non-spam messages.</p>
 <h3>Logistic Regression </h3>
 <br>import numpy as np</br>
-import pandas as pd
-import matplotlib.pyplot as plt
-import seaborn as sns
-from sklearn.model_selection import train_test_split
-from sklearn.feature_extraction.text import TfidfVectorizer
-from sklearn.linear_model import LogisticRegression
-from sklearn.metrics import accuracy_score
-  
-url="https://raw.githubusercontent.com/Nganha25/Minipre/main/spam.csv"
-data = pd.read_csv(url,encoding = 'latin')
-
+<img src="import.jpg" alt="Error display image" width="700" height="500" >
+<img src="logistic" alt="Error display image" width="700" height="500" >
 
 
 
