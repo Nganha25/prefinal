@@ -15,7 +15,7 @@ The primary goal is to Classify emails as spam or not and  predict that accurate
 <p>Describe chart 1:
 I use a pie chart to describe my section . My chart shows that the label 'Ham' makes up the majority (87%) of the dataset, while the label 'Spam' makes up only a small percentage (13%).</p>
 <h3>Chart 2: </h3>
-<img src="Chart 2.j[g" alt="Error display image" width="700" height="500" >
+<img src="Chart 2.jpg" alt="Error display image" width="700" height="500" >
 <p>Describe chart 2:
 The chart represents the frequency of specific words in non-spam messages. It visualizes which words occur most frequently in the non-spam message dataset. The bars on the chart show the relative frequency of each word, with taller bars indicating higher occurrence. 
 By examining the chart, one can easily identify the words that are most commonly used in non-spam messages..</p>
