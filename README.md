@@ -26,7 +26,7 @@ The chart represents the frequency of specific words in non-spam messages. It vi
 By examining the chart, one can easily identify the words that are most commonly used in non-spam messages.</p>
 <h3>Logistic Regression </h3>
 <br>import numpy as np</br>
-<img src="import.jpg" alt="Error display image" width="900" height="500" >
+<img src="import.jpg" alt="Error display image" width="00" height="500" >
 <img src="logistic.ipg" alt="Error display image" width="700" height="500" >
 
 
