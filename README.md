@@ -26,9 +26,9 @@ The chart represents the frequency of specific words in non-spam messages. It vi
 By examining the chart, one can easily identify the words that are most commonly used in non-spam messages.</p>
 <h3>Logistic Regression </h3>
 <br><img src="import.jpg" alt="Error display image" width="1000" height="200" ></br>
-<br><img src="https://github.com/Nganha25/prefinal/blob/main/logistic.jpg" alt="Error display image" width="1000" height="200" ></br>
-<br><img src="https://github.com/Nganha25/prefinal/blob/main/num1.jpg" alt="Error display image" width="1000" height="300" ></br>
-<br><img src="https://github.com/Nganha25/prefinal/blob/main/num2.jpg" alt="Error display image" width="1000" height="300" ></br>
+<br><img src="https://github.com/Nganha25/prefinal/blob/main/logistic.jpg" alt="Error display image" width="200" height="200" ></br>
+<br><img src="https://github.com/Nganha25/prefinal/blob/main/num1.jpg" alt="Error display image" width="800" height="300" ></br>
+<br><img src="https://github.com/Nganha25/prefinal/blob/main/num2.jpg" alt="Error display image" width="800" height="300" ></br>
 
 <h2>3. Summarize the presentation</h2>
 <p>In conclusion, 3 different charts above have filtered out the above data, we know the current status of spam sending in the UK, and we use a Logistic Regression to be able to predict which emails sent in the future are good and which are spam.</p>
