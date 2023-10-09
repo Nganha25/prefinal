@@ -5,7 +5,7 @@
 <p>Hi, everyone. Today my team wil present how we collect and analyze data.
 Introduction
 This is information about Email Spam Collection Dataset, the file contains one email per line. 
-Each line is composed by two columns: v1 contains the label (ham or spam) and v2 contains the raw text, which consists of 5,574 email tagged with their respective labels.We collect them here on Kaggle.com. 
+Each line is composed by two columns: v1 contains the label (ham or spam) and v2 contains the raw text, which consists of 5,574 emails tagged with their respective labels. We collect them here on Kaggle.com. 
 The algorithm we use in this topic to process this data is Logistic Regression.
 Logistic regression is a supervised learning classification algorithm used to predict the probability of a target variable. It is one of the simplest ML algorithms that can be used for various classification problems such as spam detection
 The primary goal is to Classify emails as spam or not and  predict that accurately classifies incoming email either ham or spam.<p>First, we updated file data to jupyter and type code to have 5 different charts.First chart about the dispersion in the correlation between weight and height of players.</p>
